@@ -1,5 +1,5 @@
 ---
-title: "Apple ]["
+title: "Apple ]\["
 author: "Kirk Jackson"
 
 ---
